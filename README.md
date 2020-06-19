@@ -1,3 +1,3 @@
-# PSOControl
+# Control
 
-Applying PSO to control problems
+A place to put control related notebooks
